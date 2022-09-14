@@ -56,4 +56,4 @@ gst-launch-1.0                                                                  
 ## Acknowledgements
 
 - Paho install script taken [from here](https://github.com/eclipse/paho.mqtt.cpp/issues/136)
-- Library main script taken [from here](`https://forums.developer.nvidia.com/t/customize-gst-nvmsgbroker-adaptor-for-mqtt-using-paho-mqtt-c/163694/3`)
+- Library main script taken [from here](https://forums.developer.nvidia.com/t/customize-gst-nvmsgbroker-adaptor-for-mqtt-using-paho-mqtt-c/163694)
